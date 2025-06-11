@@ -1,5 +1,5 @@
 # vdiff
-vdiff is a command line tool for comparing files in two directories, like git diff.
+The vdiff command-line tool compares files between two directories, similar to how git diff compares changes in a Git repository.
 
 
 
